@@ -1,0 +1,6 @@
+SOURCE_URL=https://github.com/datenstrom/yellow/archive/v0.8.11.tar.gz
+SOURCE_SUM=d8f28f28f07effd1c04410d49c94d72499e11ffeeb03bdc427ac5700ac0d5707
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=tar.gz
+SOURCE_IN_SUBDIR=true
+SOURCE_FILENAME=yellow
